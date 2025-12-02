@@ -58,29 +58,25 @@ This project follows the **MVC (Model-View-Controller)** design pattern without 
 ### 2. Login & Register (The Controller)
 | Login Page | Signup Page |
 | :---: | :---: |
-| <img src="screenshots/admin_login.png" alt="Admin Login" width="400"/> | <img src="screenshots/user_signup.png" alt="User Signup" width="400"/> |
+| <img src="screenshots/admin_login.png" alt="login Login" width="400"/> | <img src="screenshots/user_signup.png" alt="User Signup" width="400"/> |
 
 ### 3. Admin Module (The Controller)
-| Admin Login | Admin Dashboard |
+| Admin Dashboard | Add Specialist |
 | :---: | :---: |
-| <img src="screenshots/admin_login.png" alt="Admin Login" width="400"/> | <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="400"/> |
+| <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="400"/> | <img src="screenshots/admin_dr_speciality.png" alt="Add Specialty" width="400"/> |
 
-| Manage Doctors | Create New Doctor |
+| Create New Doctor | Manage Doctors |
 | :---: | :---: |
-| <img src="screenshots/admin_view_doctor.png" alt="View Doctors" width="400"/> | <img src="screenshots/admin_doctor_create.png" alt="Create Doctor" width="400"/> |
+| <img src="screenshots/admin_doctor_create.png" alt="Create Doctor" width="400"/> | <img src="screenshots/admin_view_doctor.png" alt="View Doctors" width="400"/> |
 
-| Add Specialist | All Appointments (Admin View) |
-| :---: | :---: |
-| <img src="screenshots/admin_dr_speciality.png" alt="Add Specialty" width="400"/> | <img src="screenshots/admin_patient_appointment.png" alt="Admin Appointments" width="400"/> |
+| All Appointments (Admin View) |
+| :---: |
+| <img src="screenshots/admin_patient_appointment.png" alt="Admin Appointments" height="400" width="800"/> |
 
 ### 4. Doctor Module
-| Doctor Dashboard | View Appointments |
-| :---: | :---: |
-| <img src="screenshots/doctor_dashboard.png" alt="Doctor Dashboard" width="400"/> | <img src="screenshots/doctor_view_appointment.png" alt="Doctor View Appt" width="400"/> |
-
-| Edit Profile |
-| :---: |
-| <img src="screenshots/doctor_edit_profile.png" alt="Doctor Profile" width="400"/> |
+| Doctor Dashboard | View Appointments | Edit Profile  |
+| :---: | :---: | :---: |
+| <img src="screenshots/doctor_dashboard.png" alt="Doctor Dashboard" width="266"/> | <img src="screenshots/doctor_view_appointment.png" alt="Doctor View Appt" width="266"/> | <img src="screenshots/doctor_edit_profile.png" alt="Doctor Profile" width="266"/> |
 
 ### 5. Patient Module
 | Book Appointment | View Status |
