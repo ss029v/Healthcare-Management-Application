@@ -53,7 +53,7 @@ This project follows the **MVC (Model-View-Controller)** design pattern without 
 ### 1. Landing & General
 | Home Page |
 | :---: |
-| <img src="screenshots/home.png" alt="Home Page" width="800"/> |
+| <img src="screenshots/home.png" alt="Home Page" height="400" width="800"/> |
 
 ### 2. Login & Register (The Controller)
 | Login Page | Signup Page |
